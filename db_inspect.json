@@ -1,0 +1,2298 @@
+[
+  {
+    "id": 178,
+    "standard_code": "CS 43020",
+    "year_code": "",
+    "cn_name": "客车结构安全要求",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 177,
+    "standard_code": "DL 01",
+    "year_code": "",
+    "cn_name": "客车结构安全要求",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 176,
+    "standard_code": "CS 65.120",
+    "year_code": "",
+    "cn_name": "饲料卫生标准",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "regex_fallback",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 175,
+    "standard_code": "YD 9",
+    "year_code": "",
+    "cn_name": "客车座椅及其车辆固定件的强度",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 174,
+    "standard_code": "CS 55",
+    "year_code": "",
+    "cn_name": "包装容器  铁质气雾罐",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "明确规定气雾经容积不应大于 1 000 mL"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "取消按材料分为Z型.Y型的分类方法,改为按结构.形状和耐压性能分类"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "印刷质量要求执行 QB/T 1877 的规定"
+      },
+      {
+        "type": "删除",
+        "index": "d",
+        "content": "取消对匀口平均接触高度要求"
+      },
+      {
+        "type": "增加",
+        "index": "e",
+        "content": "增加相容性要求"
+      },
+      {
+        "type": "增加",
+        "index": "f",
+        "content": "增加卫生要求"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 173,
+    "standard_code": "GH 0",
+    "year_code": "",
+    "cn_name": "机动轮椅车",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 172,
+    "standard_code": "CS 17",
+    "year_code": "",
+    "cn_name": "国旗颜色标准样品",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "在修订中对原标准中的国旗颜色标准样品的色度允许误差进行了修订。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 171,
+    "standard_code": "GH 12",
+    "year_code": "",
+    "cn_name": "国旗",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 170,
+    "standard_code": "CS 75120",
+    "year_code": "",
+    "cn_name": "机动车辆制动液",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 169,
+    "standard_code": "CS 1322001",
+    "year_code": "",
+    "cn_name": "消防电子产品检验规则",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 168,
+    "standard_code": "HG 3",
+    "year_code": "",
+    "cn_name": "消防电子产品检验规则",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 167,
+    "standard_code": "CS 1322050",
+    "year_code": "",
+    "cn_name": "防火门",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 166,
+    "standard_code": "CS 13.220",
+    "year_code": "",
+    "cn_name": "防火门",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 165,
+    "standard_code": "CS 13100",
+    "year_code": "",
+    "cn_name": "地震勘探爆炸安全规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 164,
+    "standard_code": "GB 12950",
+    "year_code": "",
+    "cn_name": "地震勘探爆炸安全规程",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 163,
+    "standard_code": "GB 12942",
+    "year_code": "",
+    "cn_name": "涂装作业安全规程  有限空间作业安全技术要求",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "增加",
+        "index": "a",
+        "content": "增加了新的定义;"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "对标准的使用范围做了修改;"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "对原标准中有限空间的含氧量指标做了修改;"
+      },
+      {
+        "type": "增加",
+        "index": "d",
+        "content": "对涂装作业时各物体间的相对运动,作业人员现场着装行为作出规定,具体增加了涂装作业时的安全事项;"
+      },
+      {
+        "type": "增加",
+        "index": "e",
+        "content": "规定对作业区的电气设备.照明设施实现整体防爆,对用电安全提出具体要求;"
+      },
+      {
+        "type": "增加",
+        "index": "f",
+        "content": "增加了要求在仅有顶部出入口的有限空间进行作业的人员佩带救生索的规定，"
+      },
+      {
+        "type": "增加",
+        "index": "g",
+        "content": "对有限空间作业场所警戒区域的划定及警戒标志设置作出规定,以完善办理有限空间作业许可证的审查内容;"
+      },
+      {
+        "type": "增加",
+        "index": "h",
+        "content": "要求施工单位在作业前确认在有限空间内所用材料的易燃、易爆等级并具有相关的安全使用资料"
+      },
+      {
+        "type": "更改",
+        "index": "i",
+        "content": "针对有限空间作业的特殊性,修改了通风规定。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 162,
+    "standard_code": "GH 9",
+    "year_code": "",
+    "cn_name": "手持式金属探测器通用技术规范",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 161,
+    "standard_code": "CS 13100",
+    "year_code": "",
+    "cn_name": "生产过程安全基本要求",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 160,
+    "standard_code": "LY 9",
+    "year_code": "",
+    "cn_name": "点型紫外火焰探测器",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 159,
+    "standard_code": "YD 3",
+    "year_code": "",
+    "cn_name": "大豆种子产地检疫规程",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 158,
+    "standard_code": "CS 13100",
+    "year_code": "",
+    "cn_name": "焦化安全规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 157,
+    "standard_code": "CS 13",
+    "year_code": "",
+    "cn_name": "焦化安全规程",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 156,
+    "standard_code": "CS 03.220.40",
+    "year_code": "",
+    "cn_name": "航标灯光信号颜色",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 155,
+    "standard_code": "CS 13310",
+    "year_code": "",
+    "cn_name": "便携式X射线安全检查设备技术规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 154,
+    "standard_code": "TC 2",
+    "year_code": "",
+    "cn_name": "便携式X射线安全检查设备通用规范",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 153,
+    "standard_code": "CS 13.310",
+    "year_code": "",
+    "cn_name": "爆炸物解体器",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准的名称改为“爆炸物解体器”;"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "术语和定义做了调整和补充;"
+      },
+      {
+        "type": "增加",
+        "index": "c",
+        "content": "增加了无后坐力型爆炸物解体器并对产品进行分类;"
+      },
+      {
+        "type": "增加",
+        "index": "d",
+        "content": "增加了产品的组成,标记和重量的要求;"
+      },
+      {
+        "type": "删除",
+        "index": "e",
+        "content": "取消了对试验场地安全范围的规定;"
+      },
+      {
+        "type": "更改",
+        "index": "f",
+        "content": "修改了对发射药简和点火器(1990 年版标准中的电点火药简和电点火装置) 的要求;"
+      },
+      {
+        "type": "更改",
+        "index": "g",
+        "content": "修改了对后坐移动范围的规定;"
+      },
+      {
+        "type": "更改",
+        "index": "h",
+        "content": "不再规定设计安全系数并修改了压力试验方法;"
+      },
+      {
+        "type": "更改",
+        "index": "i",
+        "content": "修改了检验规则。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 152,
+    "standard_code": "CS 97",
+    "year_code": "",
+    "cn_name": "教学视听设备及系统维护与操作的安全要求",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 151,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  氧化锌",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称修改为《工作基准试剂 氧化锌》"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(1990 年版的4.1,本版的5.3)"
+      },
+      {
+        "type": "删除",
+        "index": "c",
+        "content": "取消了“附录 A 基准溶液的配制(补充件)”(1990 年版的附录 A)"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 150,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  苯甲酸",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称修改为\"工作基准试剂 苯甲酸\""
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(前版的4.1,本版的5.3)"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 149,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  碳酸钙",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称改为《工作基准试剂 碳酸钙》"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(1990年版的4.1,本版的5.3)"
+      },
+      {
+        "type": "删除",
+        "index": "c",
+        "content": "取消了“附录A 基准溶液的配制(补充件)”(1990年版的附录A)"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 148,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  硝酸银",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "修改了含量的测定方法(1990 年版的4.1,本版的5.3);"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "项目名称“水溶液反应?”改为“pH值”(1990 年版的3.3.4.3,本版的4.5.4)"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "修改了铁、铜、铅的测定方法(1990 年版的4.4.6,4.4.7,4.4.8,本版的5.10,5.11,5.12)"
+      },
+      {
+        "type": "删除",
+        "index": "d",
+        "content": "取消了“附录A 基准溶液的配制(补充件)”(1990 年版的附录A)。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 147,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  溴酸钾",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "修改了含量的测定方法(1990 年版的4.1,本版的5.3)。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 146,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  乙二胺四乙酸二钠",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称改为“工作基准试剂 乙二胺四乙酸二钠”；"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(前版的4.1,本版的5.3)。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 145,
+    "standard_code": "HG 9",
+    "year_code": "",
+    "cn_name": "工作基准试剂  重铬酸钾",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 144,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  碘酸钾",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "修改了含量的测定方法(1990 年版的4.1,本版的5.3)。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 143,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  邻苯二甲酸氢钾",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称修改为“工作基准试剂  邻苯二甲酸氢钾”；"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(前版的4.1,本版的5.3)；"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "水不溶物、氯化物和铁三项改用化学试剂通用方法测定(前版的4.3.2,4.3.3,4.3.6,本版的5.6,5.7,5.10)。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 142,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  三氧化二砷",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称修改为\"工作基准试剂 三氧化二砷\""
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(1990 年版的4.1,本版的5.3)"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 141,
+    "standard_code": "CS 7912010",
+    "year_code": "",
+    "cn_name": "木工机床  安全技术规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 140,
+    "standard_code": "CS 7912010",
+    "year_code": "",
+    "cn_name": "木工机床  安全通则",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 139,
+    "standard_code": "CS 71.040.30",
+    "year_code": "",
+    "cn_name": "工作基准试剂  无水碳酸钠",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称修改为“工作基准试剂 无水碳酸钠”"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(1990年版的4.1;本版的5.3)。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 138,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  草酸钠",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称改为“工作基准试剂 草酸钠”"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(前版的4.1,本版的5.3)"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 137,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  氯化钠",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "标准名称修改为4工作基准试剂》氧化钠》"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "修改了含量的测定方法(前版的 4, 1,本版的5.3)"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "pH值.水不溶物.芒酸盐.总氮量.磷酸盐.铁.以及重金属七项改用化学试剂通用方法测定(前版的 4.2.4,3.2.4,3.5.4,3.6.4,3.7.4,3.12.4,3.14,本版的5.4.5.6.5.9.5. 10.5.11、5.16.5.18)"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 136,
+    "standard_code": "GB 12526",
+    "year_code": "",
+    "cn_name": "远程光电测距规范",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 135,
+    "standard_code": "GB 12525",
+    "year_code": "",
+    "cn_name": "铁路边界噪声限值及其测量方法",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 134,
+    "standard_code": "HG 5",
+    "year_code": "",
+    "cn_name": "消防接口  第4部分：螺纹式消防接口型式和基本参数",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 133,
+    "standard_code": "JG 5",
+    "year_code": "",
+    "cn_name": "消防接口  第3部分：卡式消防接口型式和基本参数",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 132,
+    "standard_code": "CS 13.220.20",
+    "year_code": "",
+    "cn_name": "消防接口 第2部分：内扣式消防接口型式和基本参数",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 131,
+    "standard_code": "GH 89",
+    "year_code": "",
+    "cn_name": "消防接口  第1部分：消防接口通用技术条件",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 130,
+    "standard_code": "CS 1322010",
+    "year_code": "",
+    "cn_name": "消防接口技术条件",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 129,
+    "standard_code": "GB 12488",
+    "year_code": "2008",
+    "cn_name": "食品添加剂  环己基氨基磺酸钠（甜蜜素）",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "regex_fallback",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 128,
+    "standard_code": "CS 29",
+    "year_code": "",
+    "cn_name": "可燃性粉尘环境用电气设备 第3部分：存在或可能存在可燃性粉尘的场所分类",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 127,
+    "standard_code": "GB 12476.2",
+    "year_code": "",
+    "cn_name": "可燃性粉尘环境用电气设备 第1部分：用外壳和限制表面温度保护的电气设备 第2节：电气设备的选择、安装和维护",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 126,
+    "standard_code": "WH 0",
+    "year_code": "",
+    "cn_name": "农药贮运、销售和使用的防毒规程",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 125,
+    "standard_code": "CS 13",
+    "year_code": "",
+    "cn_name": "危险货物运输包装通用技术条件",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "regex_fallback",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 124,
+    "standard_code": "CS 13.220.20",
+    "year_code": "",
+    "cn_name": "饰面型防火涂料",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 123,
+    "standard_code": "CS 13",
+    "year_code": "",
+    "cn_name": "耐火材料企业防尘规程",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "增加",
+        "index": "a",
+        "content": "增加了“术语和定义”一章"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "将综合技术措施分别分为“厂房建筑” “生产工艺及设备”“主要工序的防尘“除尘系统设计与维护?四章来论述"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "一部分强制性条款调整为推荐性条款"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 122,
+    "standard_code": "GB 12579",
+    "year_code": "",
+    "cn_name": "环境核辐射监测规定",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 121,
+    "standard_code": "CS 13100",
+    "year_code": "",
+    "cn_name": "静电喷漆安全规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 120,
+    "standard_code": "CS 13320",
+    "year_code": "",
+    "cn_name": "作业场所环境气体检测报警仪器 通用技术要求",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 119,
+    "standard_code": "CJ 3",
+    "year_code": "",
+    "cn_name": "作业场所环境气体检测报警仪  通用技术要求",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 118,
+    "standard_code": "HS 7",
+    "year_code": "",
+    "cn_name": "客运架空索道安全规范",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 117,
+    "standard_code": "CS 45",
+    "year_code": "",
+    "cn_name": "客运架空索道安全规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 116,
+    "standard_code": "BS 45",
+    "year_code": "",
+    "cn_name": "海道测量规范",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 115,
+    "standard_code": "GH １３",
+    "year_code": "",
+    "cn_name": "中国航海图编绘规范",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 114,
+    "standard_code": "JG 1",
+    "year_code": "",
+    "cn_name": "中国海图图式",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 113,
+    "standard_code": "CS 13300",
+    "year_code": "",
+    "cn_name": "危险货物品名表",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 112,
+    "standard_code": "SL 8",
+    "year_code": "",
+    "cn_name": "心肺转流系统 热交换水箱",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 111,
+    "standard_code": "LJ 6",
+    "year_code": "",
+    "cn_name": "心肺转流系统 滚压式血泵",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 110,
+    "standard_code": "CS 13100",
+    "year_code": "",
+    "cn_name": "防止静电事故通用要求",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 109,
+    "standard_code": "HB 1",
+    "year_code": "",
+    "cn_name": "防止静电事故通用导则",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 108,
+    "standard_code": "CS 13100",
+    "year_code": "",
+    "cn_name": "便携式金属梯安全要求",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 107,
+    "standard_code": "GH 567",
+    "year_code": "",
+    "cn_name": "便携式金属梯安全要求",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 106,
+    "standard_code": "GB 12073",
+    "year_code": "",
+    "cn_name": "乳品设备安全卫生",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 105,
+    "standard_code": "GB 1207",
+    "year_code": "",
+    "cn_name": "电磁式电压互感器",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 104,
+    "standard_code": "HB ３",
+    "year_code": "",
+    "cn_name": "电风扇能效限定值及能效等级",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 103,
+    "standard_code": "CS 27.010",
+    "year_code": "",
+    "cn_name": "电饭锅能效限定值及能效等级",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "增加",
+        "index": "a",
+        "content": "范围中增加了加热方式为电磁感应加热的产品；"
+      },
+      {
+        "type": "增加",
+        "index": "b",
+        "content": "ABR TR 4.1(基本要求);"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "600 W~1 000 W 的产品由原先的两个功率段合并为一个功率段(见表 1);"
+      },
+      {
+        "type": "更改",
+        "index": "d",
+        "content": "提高了能效.保温能耗和待机功率的指标(见表 1);"
+      },
+      {
+        "type": "更改",
+        "index": "e",
+        "content": "热效率计算公式中针对电全感应加热和非金属内锅产品的能效给予了一定的补偿(见 4.2);"
+      },
+      {
+        "type": "删除",
+        "index": "f",
+        "content": "检验规则一章中只保留了原 6.2.2 的内容,其余内容删除;"
+      },
+      {
+        "type": "更改",
+        "index": "g",
+        "content": "测试方法中最高尖度的测量方法发生了改变(见附录和的A.2.1)。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 102,
+    "standard_code": "CS 27",
+    "year_code": "",
+    "cn_name": "自动电饭锅能效限定值及能效等级",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "本标准名称改为(自动电饭锅能效限定值及能效等级》；"
+      },
+      {
+        "type": "增加",
+        "index": "b",
+        "content": "范围中增加了能效等级,节能评价值.待机能耗;"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "规范性引用文件,术语和定义也有相应改变;"
+      },
+      {
+        "type": "更改",
+        "index": "d",
+        "content": "原标准中电耗限定值改为能效限定值;"
+      },
+      {
+        "type": "更改",
+        "index": "e",
+        "content": "原标准中测试方法一章内容全部删除,名称改为试验方法;"
+      },
+      {
+        "type": "更改",
+        "index": "f",
+        "content": "本标准中规定的试验方法的内容放在了附录 A 中;"
+      },
+      {
+        "type": "更改",
+        "index": "g",
+        "content": "出厂检验和型式检验内容作了较大调整，"
+      },
+      {
+        "type": "删除",
+        "index": "h",
+        "content": "原标准中第 7 章的内容全部删除。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 101,
+    "standard_code": "CS 27010",
+    "year_code": "",
+    "cn_name": "电动洗衣机能效水效限定值及等级",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 100,
+    "standard_code": "CS 27010",
+    "year_code": "",
+    "cn_name": "家用电冰箱耗电量限定值及能效等级",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 99,
+    "standard_code": "CS 27010",
+    "year_code": "",
+    "cn_name": "家用电冰箱耗电量限定值及能效等级",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 98,
+    "standard_code": "CS 27",
+    "year_code": "",
+    "cn_name": "家用电冰箱耗电量限定值及能源效率等级",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 97,
+    "standard_code": "GH 3456",
+    "year_code": "",
+    "cn_name": "防护服装  防静电服",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 96,
+    "standard_code": "CS 13300",
+    "year_code": "",
+    "cn_name": "化工企业氯气安全技术规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 95,
+    "standard_code": "CS 13",
+    "year_code": "",
+    "cn_name": "氯气安全规程",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "修改了和氧气单位应遵守的防火和卫生相关标准(1983 年版的 4. 2.4.3, ARRAY 3. 3.3.4);"
+      },
+      {
+        "type": "增加",
+        "index": "b",
+        "content": "增加了和氧气生产企业应遵守的卫生防护距离要求(见 3. 5)"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "修改了和氧气单位应配备的抢修器材和防护器材(1989 年版的4. 6,本版的3.8);"
+      },
+      {
+        "type": "增加",
+        "index": "d",
+        "content": "增加了和氧气单位作业场所应设置报警仪(见 3. 10);"
+      },
+      {
+        "type": "增加",
+        "index": "e",
+        "content": "增加了和氧气单位应编制应急预案(见 3. 17)"
+      },
+      {
+        "type": "增加",
+        "index": "f",
+        "content": "增加了对三氯化氮指标的要求(见 4. 6)"
+      },
+      {
+        "type": "增加",
+        "index": "g",
+        "content": "增加了液氧气瓶及液氯汽车锚车和铁路经车的充装安全(见 5. 2);"
+      },
+      {
+        "type": "增加",
+        "index": "h",
+        "content": "增加了充装量为 100 kg 的气瓶的有关安全要求(见 6. 1.3.6.1.4.8.1.3.8.1.13);"
+      },
+      {
+        "type": "更改",
+        "index": "i",
+        "content": "修改了气瓶加热水温的指标(1989 年版的 6. 1. 10, AHR AY 6.1.5);"
+      },
+      {
+        "type": "增加",
+        "index": "j",
+        "content": "增加了液氧汽车经车和铁路饶车的使用安全(见 6. 2);"
+      },
+      {
+        "type": "增加",
+        "index": "k",
+        "content": "增加了流氧贮经区应设置事故围堰(见 7. 2. 4);"
+      },
+      {
+        "type": "增加",
+        "index": "l",
+        "content": "增加了法氧汽车经车和铁路经车的运输安全(见 8. 2);"
+      },
+      {
+        "type": "删除",
+        "index": "m",
+        "content": "册除了预防泄漏和抢救的相关内容(1989 年版的第7 章) 。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 94,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "食品添加剂  留兰香油",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "增加",
+        "index": "a",
+        "content": "增加了“3 术语和定义”一章;"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "80%留兰香油折光指数由“1.4900-1.4960”改为“1.4880-1.4960”,旋光度由“-60°~-55°”改为“-59°~-50°”;60%留兰香油旋光度由“-70°~-55°”改为“-70°~-53°”;"
+      },
+      {
+        "type": "增加",
+        "index": "c",
+        "content": "增加了卫生指标;"
+      },
+      {
+        "type": "增加",
+        "index": "d",
+        "content": "增加了附录A典型气相色谱图。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 93,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "食品添加剂  香叶（精）油",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "增加",
+        "index": "a",
+        "content": "一一增加了第 3 BREMEN;"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "—-GB 11959--1989 中规定相对密度(20 C/20 ‘CH 0. 882~0. 889 ,本标准为 0. 882~0. 8995"
+      },
+      {
+        "type": "更改",
+        "index": "c",
+        "content": "——GB 11959一1989 中规定折光指数(20 CC )为 1. 461 5一1. 469 0,本标准为 1. 460 O~1, 172 05"
+      },
+      {
+        "type": "更改",
+        "index": "d",
+        "content": "-一GB 11959-1989 中规定酸值入8. 0,本标准为酸值入10. 05"
+      },
+      {
+        "type": "更改",
+        "index": "e",
+        "content": "一一册除了\"乙酰化后酯值\"增加了\"香茅醇\"\"香叶醇\"的含量;"
+      },
+      {
+        "type": "增加",
+        "index": "f",
+        "content": "一一增加了附录 A 和附录 B。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 92,
+    "standard_code": "CS 13280",
+    "year_code": "",
+    "cn_name": "操作非密封源的辐射防护规定",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 91,
+    "standard_code": "CS 27120",
+    "year_code": "",
+    "cn_name": "高水平放射性废液贮存厂房设计规定",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 90,
+    "standard_code": "GB 11928",
+    "year_code": "",
+    "cn_name": "低、中水平放射性固体废物暂时贮存规定",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "llm",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 89,
+    "standard_code": "CS 47.020",
+    "year_code": "",
+    "cn_name": "船用柴油机辐射的空气噪声限值",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "llm",
+    "revision_changes": [
+      {
+        "type": "更改",
+        "index": "a",
+        "content": "噪声限值的给出由表格法改为公式法,且该值由精确到整数位改为精确到小数点后一位"
+      },
+      {
+        "type": "更改",
+        "index": "b",
+        "content": "对船用柴油机辐射的空气噪声限值进行了修正。"
+      }
+    ],
+    "error_reason": null
+  },
+  {
+    "id": 88,
+    "standard_code": "CS 65",
+    "year_code": "",
+    "cn_name": "南海区拖网网囊最小网目尺寸",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 87,
+    "standard_code": "CS 65",
+    "year_code": "",
+    "cn_name": "东海、黄海区拖网网囊  最小网目尺寸",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 86,
+    "standard_code": "CS 65.020.20",
+    "year_code": "",
+    "cn_name": "茶树种苗",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 85,
+    "standard_code": "CS 35.040",
+    "year_code": "",
+    "cn_name": "全国组织机构代码编制规则",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 84,
+    "standard_code": "CS 7110030",
+    "year_code": "",
+    "cn_name": "烟花爆竹作业安全技术规程",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 83,
+    "standard_code": "GH 7",
+    "year_code": "",
+    "cn_name": "公民身份号码",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 82,
+    "standard_code": "CS 81.040.20",
+    "year_code": "",
+    "cn_name": "平板玻璃",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 81,
+    "standard_code": "GB 11607",
+    "year_code": "",
+    "cn_name": "渔业水质标准",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 80,
+    "standard_code": "GH 78",
+    "year_code": "",
+    "cn_name": "汽车及挂车侧面和后下部防护要求",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 79,
+    "standard_code": "CS 4304060",
+    "year_code": "",
+    "cn_name": "乘用车外部凸出物",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 78,
+    "standard_code": "CS 4304020",
+    "year_code": "",
+    "cn_name": "机动车回复反射装置",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 77,
+    "standard_code": "CS 4304060",
+    "year_code": "",
+    "cn_name": "轻型汽车驾驶员前方视野要求及测量方法",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 76,
+    "standard_code": "CS 4304060",
+    "year_code": "",
+    "cn_name": "汽车风窗玻璃除霜和除雾系统技术规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 75,
+    "standard_code": "CS 43020",
+    "year_code": "",
+    "cn_name": "汽车正面碰撞的乘员保护",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 74,
+    "standard_code": "CS 43.040",
+    "year_code": "",
+    "cn_name": "汽车座椅头枕强度要求和试验方法",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 73,
+    "standard_code": "CS 1104070",
+    "year_code": "",
+    "cn_name": "眼科光学 接触镜 第3部分：软性接触镜",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 72,
+    "standard_code": "CS 1104070",
+    "year_code": "",
+    "cn_name": "眼科光学  接触镜  第3部分：软性接触镜",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 71,
+    "standard_code": "CS 1104070",
+    "year_code": "",
+    "cn_name": "眼科光学 接触镜 第2部分：硬性接触镜",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 70,
+    "standard_code": "CS 11.040.70",
+    "year_code": "",
+    "cn_name": "眼科光学  接触镜  第2部分：硬性接触镜",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 69,
+    "standard_code": "GB 11410",
+    "year_code": "",
+    "cn_name": "短波广播网覆盖技术规定",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 68,
+    "standard_code": "CS 13",
+    "year_code": "",
+    "cn_name": "悬挂输送机安全规程",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 67,
+    "standard_code": "CS 13.040.30",
+    "year_code": "",
+    "cn_name": "装用点燃式发动机重型汽车  曲轴箱污染物排放限值及测量方法",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 66,
+    "standard_code": "GB 11217",
+    "year_code": "",
+    "cn_name": "核设施流出物监测的一般规定",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 65,
+    "standard_code": "GB 11215",
+    "year_code": "",
+    "cn_name": "核辐射环境质量评价一般规定",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 64,
+    "standard_code": "CS 7516030",
+    "year_code": "",
+    "cn_name": "液化石油气",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 63,
+    "standard_code": "CS 75100",
+    "year_code": "",
+    "cn_name": "柴油机油",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 62,
+    "standard_code": "CS 75100",
+    "year_code": "",
+    "cn_name": "汽油机油",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 61,
+    "standard_code": "CS 5906010",
+    "year_code": "",
+    "cn_name": "棉花 皮辊加工细绒棉",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 60,
+    "standard_code": "LJ 5",
+    "year_code": "",
+    "cn_name": "棉花  第1部分：锯齿加工细绒棉",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 59,
+    "standard_code": "CS 59.060.10",
+    "year_code": "",
+    "cn_name": "棉花  细绒棉",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 58,
+    "standard_code": "CS 67",
+    "year_code": "",
+    "cn_name": "食品添加剂  L-赖氨酸盐酸盐",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 57,
+    "standard_code": "CS 67",
+    "year_code": "",
+    "cn_name": "食品添加剂  辣椒红",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 56,
+    "standard_code": "JR 8",
+    "year_code": "",
+    "cn_name": "工作基准试剂 含量测定通则 称量滴定法",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 55,
+    "standard_code": "BB 3",
+    "year_code": "",
+    "cn_name": "工作基准试剂  含量测定通则  称量电位滴定法",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 54,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "工作基准试剂  氯化钾",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 53,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "第一基准试剂  无水碳酸钠",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 52,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "第一基准试剂  乙二胺四乙酸二钠",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 51,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "第一基准试剂  氯化钠",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 50,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "第一基准试剂  氯化钾",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 49,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "第一基准试剂  重铬酸钾",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 48,
+    "standard_code": "CS 71",
+    "year_code": "",
+    "cn_name": "第一基准试剂  邻苯二甲酸氢钾",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 47,
+    "standard_code": "CS 65.120",
+    "year_code": "",
+    "cn_name": "饲料标签",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 46,
+    "standard_code": "CS 7110030",
+    "year_code": "",
+    "cn_name": "烟花爆竹 安全与质量",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 45,
+    "standard_code": "CS 7110030",
+    "year_code": "",
+    "cn_name": "烟花爆竹  安全与质量",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 44,
+    "standard_code": "JB 3",
+    "year_code": "",
+    "cn_name": "食品添加剂  蔗糖脂肪酸酯 （丙二醇法）",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 43,
+    "standard_code": "CS 45.020",
+    "year_code": "",
+    "cn_name": "铁路区间道口信号设备技术条件",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 42,
+    "standard_code": "CS 45.020",
+    "year_code": "",
+    "cn_name": "铁路站内道口信号设备技术条件",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 41,
+    "standard_code": "CS 13.310",
+    "year_code": "",
+    "cn_name": "防盗保险柜（箱）",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 40,
+    "standard_code": "CS 13.310",
+    "year_code": "",
+    "cn_name": "微波和被动红外复合入侵探测器",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 39,
+    "standard_code": "CS 13310",
+    "year_code": "",
+    "cn_name": "入侵和紧急报警系统 入侵探测器",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 38,
+    "standard_code": "CS 01",
+    "year_code": "",
+    "cn_name": "农林拖拉机和机械、草坪和园艺动力机械  安全标志和危险图形  总则",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 37,
+    "standard_code": "CS 65",
+    "year_code": "",
+    "cn_name": "农林拖拉机和机械  安全技术要求  第9部分：播种、栽种和施肥机械",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 36,
+    "standard_code": "DL 6",
+    "year_code": "",
+    "cn_name": "农林拖拉机和机械  安全技术要求  第8部分：排灌泵和泵机组",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 35,
+    "standard_code": "CS 6506050",
+    "year_code": "",
+    "cn_name": "农业机械 安全 第7部分：联合收割机、饲料收获机、棉花收获机和甘蔗收获机",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 34,
+    "standard_code": "CS 6506040",
+    "year_code": "",
+    "cn_name": "农业机械  安全  第6部分：植物保护机械",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 33,
+    "standard_code": "CS 65",
+    "year_code": "",
+    "cn_name": "农林拖拉机和机械  安全技术要求  第5部分：驱动式耕作机械",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 32,
+    "standard_code": "CS 65",
+    "year_code": "",
+    "cn_name": "农林拖拉机和机械  安全技术要求  第4部分：林用绞盘机",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 31,
+    "standard_code": "GB 10395",
+    "year_code": "",
+    "cn_name": "农林拖拉机和机械　安全技术要求　第15部分：配刚性切割装置的动力修边机",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 30,
+    "standard_code": "CS 6506001",
+    "year_code": "",
+    "cn_name": "农业机械  安全  第1部分： 总则",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 29,
+    "standard_code": "GB 10351",
+    "year_code": "",
+    "cn_name": "食品添加剂  桉叶素含量80%的桉叶油",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 28,
+    "standard_code": "CS 65",
+    "year_code": "",
+    "cn_name": "林业机械  便携式风力灭火机  使用安全规程",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 27,
+    "standard_code": "CS 13.280",
+    "year_code": "",
+    "cn_name": "γ辐照装置的辐射防护与安全规范",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 26,
+    "standard_code": "CS 11",
+    "year_code": "",
+    "cn_name": "B型超声诊断设备",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 25,
+    "standard_code": "GB 10070",
+    "year_code": "",
+    "cn_name": "城市区域环境振动标准",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 24,
+    "standard_code": "CS 29",
+    "year_code": "",
+    "cn_name": "旋转电机噪声测定方法及限值  第3部分：噪声限值",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": null
+  },
+  {
+    "id": 23,
+    "standard_code": "SL 345",
+    "year_code": "",
+    "cn_name": "施工升降机安全规程",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "regex_fallback",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 22,
+    "standard_code": "GH 5",
+    "year_code": "",
+    "cn_name": "气囊式体外反搏装置",
+    "status": "success",
+    "replace_standard": null,
+    "extraction_source": "regex_fallback",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 21,
+    "standard_code": "CS 29",
+    "year_code": "",
+    "cn_name": "家用和类似用途三相插头插座  型式、基本参数和尺寸",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "regex_fallback",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 20,
+    "standard_code": "CS 2912030",
+    "year_code": "",
+    "cn_name": "家用和类似用途单相插头插座  型式、基本参数和尺寸",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "regex",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 19,
+    "standard_code": "CS 13.180",
+    "year_code": "",
+    "cn_name": "用于技术设计的人体测量基础项目",
+    "status": "success",
+    "replace_standard": "G",
+    "extraction_source": "regex_fallback",
+    "revision_changes": [],
+    "error_reason": null
+  },
+  {
+    "id": 18,
+    "standard_code": "TEMP_ed3c343ca9494c688eeead523b9bb7",
+    "year_code": "",
+    "cn_name": "",
+    "status": "failed",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\34869\\AppData\\Roaming\\Python\\Python314\\site-packages\\pdfplumber\\pdf.py\", line 50, in __init__\n    self.doc = PDFDocument(PDFParser(stream), password"
+  },
+  {
+    "id": 17,
+    "standard_code": "TEMP_043b6a11c22e438e900bff8feeb71a",
+    "year_code": "",
+    "cn_name": "",
+    "status": "failed",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": "Traceback (most recent call last):\n  File \"E:\\新版修订自动提取\\emis_project\\standards_parser\\tasks.py\", line 362, in process_standard_documents_batch\n    parse_result = parser.parse()\n  File \"E:\\新版修订自动提取\\emis"
+  },
+  {
+    "id": 16,
+    "standard_code": "TEMP_3e12d592f7b84956af7046b226fa60",
+    "year_code": "",
+    "cn_name": "",
+    "status": "failed",
+    "replace_standard": null,
+    "extraction_source": null,
+    "revision_changes": null,
+    "error_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\34869\\AppData\\Roaming\\Python\\Python314\\site-packages\\pdfplumber\\pdf.py\", line 50, in __init__\n    self.doc = PDFDocument(PDFParser(stream), password"
+  }
+]

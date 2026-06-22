@@ -1,0 +1,13 @@
+Django==4.2.0
+celery==5.3.1
+redis==5.0.0
+mysql-client==1.4.6
+pdfplumber==0.10.0
+python-docx==0.8.11
+watchdog==3.0.0
+PyMySQL==1.1.0
+pytesseract==0.3.10
+# LLM 支持（DeepSeek 使用 OpenAI 兼容接口）
+openai>=1.0.0
+python-dotenv>=1.0.0
+
