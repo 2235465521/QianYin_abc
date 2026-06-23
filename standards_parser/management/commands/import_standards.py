@@ -116,6 +116,15 @@ class Command(BaseCommand):
             processed_count = 0
             missing_files_count = 0
             
+            existing_ids = set()
+            if skip_existing:
+                self.stdout.write("Loading existing successfully imported document IDs from database...")
+                existing_ids = set(
+                    StandardDocument.objects.filter(status='success')
+                    .values_list('source_base_id', flat=True)
+                )
+                self.stdout.write(self.style.SUCCESS(f"[OK] Loaded {len(existing_ids)} existing document IDs to skip."))
+            
             for row in records:
                 base_id = row['base_id']
                 std_id = row['std_id']
@@ -124,9 +133,7 @@ class Command(BaseCommand):
                 
                 # Check if we should skip existing
                 if skip_existing:
-                    exists = StandardDocument.objects.filter(source_base_id=base_id, status='success').exists()
-                    if exists:
-                        logger.debug(f"Skipping already processed base_id: {base_id}")
+                    if base_id in existing_ids:
                         continue
                 
                 # Clean up paths (compatible with both absolute and relative path formats)
@@ -170,13 +177,22 @@ class Command(BaseCommand):
             logger.error("Import command failed", exc_info=True)
             
         finally:
-            cursor.close()
-            conn.close()
+            try:
+                cursor.close()
+            except Exception:
+                pass
+            try:
+                conn.close()
+            except Exception:
+                pass
 
     def import_batch(self, batch_list: list) -> None:
         """
         Process a batch of records, parse files, and perform bulk upsert.
         """
+        from django.db import close_old_connections
+        close_old_connections()
+        
         base_ids = [item['base_id'] for item in batch_list]
         
         # Load existing documents for mapping to update them instead of duplicating
